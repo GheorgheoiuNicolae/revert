@@ -1,5 +1,5 @@
 const revert = () => {
-  console.log('update this messsssssage');
+  console.log('update this message')
 }
 
-export{ revert };
+export default revert;
